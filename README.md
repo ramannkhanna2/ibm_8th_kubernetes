@@ -26,8 +26,9 @@ ssh -i "raman-ibm-8th.pem" ubuntu@56.124.111.237
 #############3
 1 time initial setup :
 
+```
 ubuntu@ip-172-31-3-25:~$ sudo -i
 root@ip-172-31-3-25:~# hostnamectl set-hostname w2
 root@ip-172-31-3-25:~# bash
-
+```
 ###############
