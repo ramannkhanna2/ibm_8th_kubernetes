@@ -79,7 +79,3 @@ networking:
 
 
 kubeadm init --config=config.yaml >> cluster_initialized.txt
-
-Note : if failure happens than run below command :
-sudo kubeadm reset -f --cri-socket=unix:///var/run/cri-dockerd.sock
-   and initialize agn
