@@ -2,23 +2,23 @@
 
 master node
 
-pubIP : 15.228.221.91
+pubIP : 18.230.153.231
 
-ssh -i "raman.pem" ubuntu@15.228.221.91
+ssh -i "raman.pem" ubuntu@18.230.153.231
 
 -------------
 w1
 
-pubIP : 18.230.65.146
+pubIP : 56.125.165.23
 
-ssh -i "raman.pem" ubuntu@18.230.65.146
+ssh -i "raman.pem" ubuntu@56.125.165.23
 
 --------------
 w2 
 
-pubIP : 18.230.59.237
+pubIP : 54.233.149.120
 
-ssh -i "raman.pem" ubuntu@18.230.59.237
+ssh -i "raman.pem" ubuntu@54.233.149.120
 
 
 ================================
