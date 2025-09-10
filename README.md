@@ -1,24 +1,27 @@
 # ibm_8th_kubernetes
 
+-- Check for new pvt key in etherpad at the top  :
+https://etherpad.opendev.org/p/r.00b50a4c11cfd0898e411eebe6c329a8
+
 master node
 
-pubIP : 18.230.153.231
+pubIP : 3.91.187.196
 
-ssh -i "raman.pem" ubuntu@18.230.153.231
+ssh -i "raman.pem" ubuntu@3.91.187.196
 
 -------------
 w1
 
-pubIP : 56.125.165.23
+pubIP : 54.225.33.161
 
-ssh -i "raman.pem" ubuntu@56.125.165.23
+ssh -i "raman.pem" ubuntu@54.225.33.161
 
 --------------
 w2 
 
-pubIP : 54.233.149.120
+pubIP : 13.217.200.242
 
-ssh -i "raman.pem" ubuntu@54.233.149.120
+ssh -i "raman.pem" ubuntu@13.217.200.242
 
 
 ================================
