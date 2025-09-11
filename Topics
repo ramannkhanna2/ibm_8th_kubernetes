@@ -1,0 +1,59 @@
+•	Module 1 – Core Concepts Overview of Container Orchestration
+o	Introduction to Kubernetes
+o	Understanding Kubernetes Architecture
+•	Module 2 – Installation, Configuration & Validation
+o	Design a Kubernetes Cluster
+o	Lab: Installation of Kubernetes 1-Master and 2-Nodes Cluster
+o	Lab: Choose a Network Solution and Configure
+o	Lab: Verify Installation with Kubectl command
+o	Understanding Namespace & Use-Cases
+o	Lab: Creating Namespace & Deploying K8s resources in Different Namespaces
+
+
+
+•	Module 3 – Creating Kubernetes Resources
+o	Understanding Pods, Labels & Selectors
+	Lab: Deploying Applications as a Pod
+	Lab: Managing Labels & Selector
+o	Understanding Replication Controller & Replica Set
+	Lab: Deploying Replication Controller & Replica Set
+•	Module 4 – Scheduling
+o	Manual Scheduling of Pods
+o	Taint and Tolerations
+	Lab: Using Manual Scheduling or Taints and Tolerations
+o	Understanding Daemon Sets
+	Lab: Deploying Applications as Daemon Sets
+o	Understanding Services – ClusterIP, NodePort & LoadBalancer
+	Lab: Creating & Managing Service
+
+
+
+•	Module 5 – Application Lifecycle Management
+o	Overview of Deployment
+	Lab: Deploying Applications as Deployment
+•	Module 6 – Environment Variable
+o	Plain Key
+o	Config Map
+o	Secret
+	Lab: Using Plain Keys, Config Map & Generic Secret as Environment Variables
+	Lab: Mount Environment Variable as Volumes
+
+
+
+•	Module 7 – Storage
+o	Understanding Volume Management in K8s
+o	Types of Volumes
+o	Provisioning
+o	Persistent Volumes
+o	Persistent Volume Claim
+	Lab: Using PV & PVC to attach Persistent Volume to a Pod as HostPath
+o	Understanding Storage Class
+o	Understanding Ingress
+	Lab: Configure and Manage Ingress Rule
+•	Module 8 – Security
+o	Understanding Kubernetes Authentication
+	Lab: Creating and Managing Users in Kubernetes
+	Lab: Creating Service Accounts
+o	Understanding Role, ClusterRole, RoleBinding & ClusterRoleBinding
+	Lab: Managing Roles and Role Binding
+	Lab: Managing Cluster Role and Cluster Role Binding
