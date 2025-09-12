@@ -5,23 +5,17 @@ https://etherpad.opendev.org/p/r.00b50a4c11cfd0898e411eebe6c329a8
 
 master node
 
-pubIP : 3.91.187.196
-
-ssh -i "raman.pem" ubuntu@3.91.187.196
+ssh -i "raman.pem" ubuntu@100.24.37.66
 
 -------------
 w1
 
-pubIP : 54.225.33.161
-
-ssh -i "raman.pem" ubuntu@54.225.33.161
+ssh -i "raman.pem" ubuntu@44.223.33.89
 
 --------------
 w2 
 
-pubIP : 13.217.200.242
-
-ssh -i "raman.pem" ubuntu@13.217.200.242
+ssh -i "raman.pem" ubuntu@54.211.111.104
 
 
 ================================
